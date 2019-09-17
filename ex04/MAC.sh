@@ -1,3 +1,3 @@
 #!/bin/bash
-ifconfig -a | grep -E "ether" |cut -d " " -f2
+ifconfig -a  | grep -E "ether" |cut -d " " -f2
 
