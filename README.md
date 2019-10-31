@@ -3,7 +3,5 @@
 ```bash
 	git clone  https://github.com/lalouabd/picine_reloaded.git
 ```
-```payton
-	import fuckyou
-```
+#	go fuck your self bitch
 
